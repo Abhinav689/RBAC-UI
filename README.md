@@ -88,7 +88,7 @@ npm start
 The application will start running at `http://localhost:3000`
 
 ### Deployed Link
-
+https://saiabhinav-rbac-ui.netlify.app/
 
 
 ## 📋 Project Structure
